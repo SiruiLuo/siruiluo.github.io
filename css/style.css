@@ -1,0 +1,27 @@
+#Frame {
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 3%;
+    overflow: hidden;
+}
+
+.Section{
+    float: left;
+}
+
+.ImageContainer {
+    width: 29%;
+    float: right; 
+}
+
+p{
+    text-align: justify;
+}
+
+.inline {
+    display: inline-block;
+    margin-right: 8%; 
+    font-weight: normal;
+    font-family: Arial;
+}
